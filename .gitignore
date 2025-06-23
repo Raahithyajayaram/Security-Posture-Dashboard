@@ -15,3 +15,4 @@ venv/
 # System files
 .DS_Store
 Thumbs.db
+data/nvdcve-1.1-2024.json*
