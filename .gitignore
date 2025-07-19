@@ -16,3 +16,6 @@ venv/
 .DS_Store
 Thumbs.db
 data/nvdcve-1.1-2024.json*
+*.log
+*.tmp
+venv/
